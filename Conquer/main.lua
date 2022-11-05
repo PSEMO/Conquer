@@ -149,6 +149,7 @@ function CreateLevelSelectionUI()
     RushSpeedUI:setStrokeColor(0, 0, 0, 0.7)
 end
 
+--Deletes upgrade visuals
 function DeleteLevelSelectionUI()
     
     LevelUpUI = false
